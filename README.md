@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="" />
-&nbsp;&nbsp;&nbsp;
+<<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=colocaCorAquiSemHashTag&height=120&section=header"/>
 
 <p align="center">I ❤️ solve big challenges using technology.<br> From backend development JAVA, or analyzing data using Mysql, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions.</p>&nbsp;
 
