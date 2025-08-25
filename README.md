@@ -1,56 +1,45 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<p align="center">
-  👋 Olá, eu sou o Murilo! <br><br>
-  💻 <strong>Desenvolvedor Backend Júnior</strong> apaixonado por criar soluções eficientes e escaláveis.<br>
-  🚀 Tenho experiência com <strong>Java + Spring Boot</strong>, APIs RESTful e bancos de dados relacionais.<br>
-  📚 Sempre em busca de novos desafios e aprendizados para transformar ideias em realidade.
-</p>
+## 👋 Sobre mim
 
-&nbsp;
+Sou um desenvolvedor backend com experiência no **desenvolvimento de APIs REST** utilizando **Java (Spring Boot e Quarkus)**, além de atuar no gerenciamento de dados em **Oracle** e **SQL Server**.  
 
-<div align="center" style="margin-bottom:100px">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=MuriloAlmeid&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-ten-eosin-52.vercel.app/api/top-langs/?username=MuriloAlmeid&show_icons=true&theme=radical&layout=compact" />
-</div>
+No meu estágio na **Stefanini** (ago/2023 – dez/2024), trabalhei na sustentação de sistemas, correção de bugs e melhoria de estabilidade, além de integrar o **Keycloak** para segurança e autenticação. Também fui responsável pelo deploy das APIs via **GitHub Actions**, monitoramento de pipelines **CI/CD** e participei de cerimônias **SCRUM** para entrega contínua dos projetos.  
 
-&nbsp;
-&nbsp;
+Durante a faculdade, desenvolvi projetos aplicando **Java**, **Node.js**, **HTML**, **CSS** e **Kotlin**, com foco em integração de sistemas, APIs externas e desenvolvimento backend.  
 
-## 🚀 Skills
+Meu objetivo atual é atuar como **Desenvolvedor Backend Júnior**, contribuindo para a criação de soluções escaláveis, seguras e de alta qualidade.  
 
-#### Main Stack:
+---
+
+## 🚀 Tecnologias
+
+#### Linguagens & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-
-#### Secondary Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
-#### Currently Learning:
+#### Bancos de Dados
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-
-#### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-
-#### Tools:
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+---
 
 ## 📫 Contato
 
