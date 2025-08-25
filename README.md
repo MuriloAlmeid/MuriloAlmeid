@@ -1,4 +1,4 @@
-<<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
 ## 👋 Sobre mim
 
@@ -38,6 +38,15 @@ Meu objetivo atual é atuar como **Desenvolvedor Backend Júnior**, contribuindo
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=MuriloAlmeid&theme=radical&mode=weekly" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAlmeid&show_icons=true&theme=radical&layout=compact" />
+</div>
 
 ---
 
